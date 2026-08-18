@@ -1,6 +1,7 @@
 # TrollTips
 Installs TrollStore directly to Tips.app, removing the need for a persistence helper using a modified TrollInstallerX IPA.
 
+Credits to https://github.com/alfiecg24/TrollInstallerX for the original TrollInstallerX
 # READ THIS
 -When prompted to install a persistence helper, scroll down to the bottom and select "No persistence helper"
 
